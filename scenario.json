@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "account{8}": "0x1aE0EA34a72D944a8C7603FfB3eC30a6669E454C"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1746389662093,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0xa608e7c691b919b000714d31147227e758f96d44f0eb6274e2b1014aa6f6bf0a",
+        "contractName": "Ownable",
+        "bytecode": "6080604052348015600e575f80fd5b50335f806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555060ef8061005a5f395ff3fe6080604052348015600e575f80fd5b50600436106026575f3560e01c80638da5cb5b14602a575b5f80fd5b60306044565b604051603b919060a2565b60405180910390f35b5f8054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f608e826067565b9050919050565b609c816086565b82525050565b5f60208201905060b35f8301846095565b9291505056fea2646970667358221220fcfd38b124cecc8e2bda50fc2f7d59a86e18dc6a0612f4ac7553aaf4ff57e9de64736f6c634300081a0033",
+        "linkReferences": {},
+        "from": "account{8}"
+      }
+    },
+    {
+      "timestamp": 1746389758396,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0xa608e7c691b919b000714d31147227e758f96d44f0eb6274e2b1014aa6f6bf0a",
+        "contractName": "Ownable",
+        "bytecode": "6080604052348015600e575f80fd5b50335f806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555060ef8061005a5f395ff3fe6080604052348015600e575f80fd5b50600436106026575f3560e01c80638da5cb5b14602a575b5f80fd5b60306044565b604051603b919060a2565b60405180910390f35b5f8054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f608e826067565b9050919050565b609c816086565b82525050565b5f60208201905060b35f8301846095565b9291505056fea26469706673582212209598976f89f5b37e20ac0cb87e7c1fcea6911ecdd8b2b55632bab2831a465ab364736f6c634300081a0033",
+        "linkReferences": {},
+        "from": "account{8}"
+      }
+    }
+  ],
+  "abis": {
+    "0xa608e7c691b919b000714d31147227e758f96d44f0eb6274e2b1014aa6f6bf0a": [
+      {
+        "inputs": [],
+        "stateMutability": "nonpayable",
+        "type": "constructor"
+      },
+      {
+        "inputs": [],
+        "name": "owner",
+        "outputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ]
+  }
+}
